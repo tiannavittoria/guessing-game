@@ -54,6 +54,8 @@ Tutorial Features the Following:
 12. Small discussion on objects
 13. Finally ended with playing with browser objects (This code was deleted)
 
+I plan to create a similar RandomNumber Guessing Game of my own to furthure reinforce the skills I have learned in this tutorial. My new guessing game will be uploaded to Github as well. 
+
 
 The End
 
